@@ -7,6 +7,6 @@
     "prettier": "^2.1.2"
   },
   "scripts": {
-    "lint:prettier": "prettier \"*.md\""
+    "lint:prettier": "prettier --write \"*.md\""
   }
 }
